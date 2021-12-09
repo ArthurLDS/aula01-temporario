@@ -4,7 +4,7 @@ Esse exercício tem como intuíto exercitar questão de posicionamento de Widget
 
 ## Instruções
 - Deverá ser criado uma tela, semelhante a figura a seguir:
-- ![alt text](tela-exercicio.png)
+- ![image](https://user-images.githubusercontent.com/18702590/145474896-df84c0af-eec0-4136-901a-a7125177899c.png)
 
 ### Cores e Icones
 
